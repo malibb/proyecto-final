@@ -1,0 +1,14 @@
+nav{
+    margin: 0;
+    height: 50px;
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: royalblue;
+}
+
+.title{
+    flex-grow: 1;    
+    text-align: center;
+}

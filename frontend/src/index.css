@@ -1,0 +1,23 @@
+:root {
+  --color-principal: #1b1b1e;
+  --color-text: #dadaec;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  color: var(--color-text);
+}
+html {
+   line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+  background-color: var(--color-principal);
+  margin: 0;
+}
+
+
+
+
